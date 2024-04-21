@@ -13,7 +13,7 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
-<img align="right" width="270" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
+<img align="right" width="300" alt="Coding" src="https://github.com/SaxenaShourya/SaxenaShourya/assets/143955797/3ac3278b-8a5e-46f1-9f9e-c01e3ee3874a" />
 
 <p align="left"> 
 🌟 Passionate MERN Developer 🚀
@@ -34,7 +34,7 @@
 📫 Contact Me At **saxenshourya000@gmail.com**
 
 <h5>
-  🔗 Know more About me on <a href="https://linkedin.com/in/shourya saxena" target="blank">LinkedIn</a>
+  🔗 Know more About me on <a href="https://linkedin.com/in/shouryasaxena" target="blank">LinkedIn</a>
 </h5>
 
 <hr/>
