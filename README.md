@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shouryasaxena">
+  <a href="https://linkedin.com/in/saxena-shourya">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
   &nbsp;&nbsp;
@@ -142,7 +142,7 @@
   </p>
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://linkedin.com/in/shouryasaxena" target="_blank">
+    <a href="https://linkedin.com/in/saxena-shourya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
     </a>
     <a href="mailto:saxenshourya000@gmail.com">
